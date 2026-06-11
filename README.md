@@ -46,4 +46,4 @@ There are a lot of abbreviations and terms. Operationalizing for convenience of 
 -	PL_QUO_CT_APPLIED	 Quotes via Applied
 -	PL_BOUND_CT_TRANSACTNOW	 Bound via TransactNow (a quoting/bridging tool)
 -	PL_QUO_CT_TRANSACTNOW	 Quotes via TransactNow
-<img width="320" height="853" alt="image" src="https://github.com/user-attachments/assets/c37b413e-c1da-4652-add8-6b68630daaa8" />
+
