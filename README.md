@@ -1,6 +1,17 @@
 # Project2_Property-CasualtyAnalysis
 
-Under development - stay tuned...
+This project uses LangGraph to create a multi-agent AI assistant that runs a preliminary EDA on a given dataset. A manual EDA .ipynb file is included for comparison. The EDA AI agent code should generalize to other datasets if in the same format.
+
+I'm starting with an property and casualty dataset.
+
+The architecture here is a plan-evaluate ReAct loop.
+
+Architecture: Plan → Code-Write → Execute → Evaluate (ReAct loop)
+
+Specialist Agents
+Basic_Summary – shape, dtypes, nulls, descriptive stats, unique counts, duplicates
+Grapher – distributions, frequency bars, numeric correlation heatmap
+
 
 
 ### Explaination of the Columns
