@@ -1,6 +1,6 @@
 # Project2_Property-CasualtyAnalysis
 
-This project uses LangGraph to create a multi-agent AI assistant that runs a preliminary EDA on a given dataset. A manual EDA .ipynb file is included for comparison. The EDA AI agent code should generalize to other datasets if in the same format.
+This project uses LangGraph to create a multi-agent AI assistant that runs a preliminary EDA on a given dataset. A manual EDA .ipynb file is included for comparison. LangSmith is used for tracing and debugging. The EDA AI agent code should generalize to other datasets if in the same format.
 
 I'm starting with an property and casualty dataset.
 
